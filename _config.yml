@@ -24,6 +24,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# prose.io configuration
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://timpaul.github.io/herts-for-refugees-jekyll/'
+  media: 'media'
+  
 # Build settings
 markdown: kramdown
 theme: minima
@@ -32,8 +38,3 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-
-prose:
-  rooturl: '_posts'
-  siteurl: 'http://timpaul.github.io/herts-for-refugees-jekyll/'
-  media: 'media'
