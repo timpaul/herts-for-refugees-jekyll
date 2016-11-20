@@ -35,5 +35,5 @@ exclude:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://timpaul.github.io/herts-for-refugees-jekyll/'
+  siteurl: 'http://timpaul.github.io/herts-for-refugees-jekyll/'
   media: 'media'
